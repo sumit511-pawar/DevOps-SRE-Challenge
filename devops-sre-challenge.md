@@ -28,4 +28,4 @@ In today's software development landscape, delivering reliable and scalable appl
 Understanding DevOps and SRE is essential for modern software engineering. By leveraging automation, monitoring, and best practices, teams can achieve faster releases with higher reliability.  
 
 ## Hashtags & Social Media  
-Share your learnings using `#getfitwithsagar #SRELife #DevOpsForAll`  
+`#getfitwithsagar #SRELife #DevOpsForAll`  
